@@ -29,6 +29,16 @@ export default function Home() {
             />
           </Link>
         </div>
+        <div>
+          <Link
+            href="https://albert-yumnam.vercel.app/"
+            className="text-emerald-300 hover:text-emerald-600 text-center"
+          >
+            <p className="text-center">
+              My less loved portfolio (haven&apos;t worked on it for a while) 👈
+            </p>
+          </Link>
+        </div>
       </main>
     </div>
   );
