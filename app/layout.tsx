@@ -30,6 +30,10 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <script
+        src="https://cdn.jsdelivr.net/gh/Albx68/cdn-serv@main/widget.js"
+        async
+      ></script>
     </html>
   );
 }
